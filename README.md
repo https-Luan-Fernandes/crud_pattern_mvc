@@ -1,56 +1,56 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
     <h1>
-      crud_padrao_mvc
+      crud_pattern_mvc
     </h1>
     <p>
-      Repositório CRUD_Padrao_MVC: Exemplo de aplicação CRUD Java com MySQL, seguindo o padrão MVC.
+     CRUD_PATTERN_MVC repository: Example of a Java CRUD application with MySQL, following the MVC pattern.
     </p>
     <h2>
-      Exemplo de Aplicação CRUD em Java com Padrão MVC e MySQL
+      Example CRUD Application in Java with MVC Standard and MySQL
     </h2>
     <hr/>
     <p>
-      Este repositório contém um exemplo de aplicação CRUD (Create, Read, Update, Delete) desenvolvida em Java, seguindo o padrão arquitetural MVC (Model-View-Controller).
-      A aplicação utiliza o banco de dados MySQL para armazenar e gerenciar os dados da entidade.
+      This repository contains an example of a CRUD (Create, Read, Update, Delete) application developed in Java, following the MVC (Model-View-Controller) architectural pattern.
+      The application uses the MySQL database to store and manage the entity's data.
     </p>
     <h2>
-      Recursos Principais
+      Main Features
     </h2>
     <hr/>
     <ul>
       <li>
-        Implementação do padrão arquitetural MVC para separação de preocupações e manutenibilidade do código.
+       Implementation of the MVC architectural pattern for separation of concerns and code maintainability.
       </li>
       <li>
-        Funcionalidades completas de CRUD para uma entidade específica.
+        Complete CRUD functionalities for a specific entity.
       </li>
       <li>
-        Utilização do MySQL como Sistema de Gerenciamento de Banco de Dados (SGBD).
+        Using MySQL as a Database Management System (DBMS).
       </li>
       <li>
-        Exemplos de boas práticas de codificação e organização de projeto em Java.
+        Examples of good coding practices and project organization in Java.
       </li>
       <hr/>
       <h2>
-        Objetivo do Projeto
+        Project Goal
       </h2>
       <p>
-        Este projeto foi criado com o objetivo de fornecer um exemplo prático de como desenvolver uma aplicação CRUD em Java utilizando o padrão MVC e integrando-a com o MySQL.
-        Sinta-se à vontade para explorar o código-fonte, contribuir com sugestões e melhorias ou usar este projeto como base para seus próprios projetos.
+        This project was created with the aim of providing a practical example of how to develop a CRUD application in Java using the MVC standard and integrating it with MySQL.
+        Feel free to explore the source code, contribute suggestions and improvements or use this project as a basis for your own projects.
       </p>
       <br/>
       <p>
-        Esperamos que este repositório seja útil para você no aprendizado e prática de desenvolvimento de software com Java, MVC e MySQL!
+        We hope that this repository will be useful to you in learning and practicing software development with Java, MVC and MySQL!
       </p>
       <hr/>
       <p>
-        Se tiver alguma dúvida ou sugestão, entre em contato conosco. Agradecemos sua visita e interesse no nosso projeto!
+        If you have any questions or suggestions, please contact us. Thank you for your visit and interest in our project!
       </p>
     </ul>
   </body>
