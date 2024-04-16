@@ -14,7 +14,7 @@ public class MySQLConnector implements ConnectionInterface{
 	public MySQLConnector() {
 		url = "jdbc:mysql://127.0.0.1:3306/db_projeto";
 		user = "root";
-		password = "#Senha2024";
+		password = "password";
 	};
 	
 	public MySQLConnector(String url,String user,String password) {
